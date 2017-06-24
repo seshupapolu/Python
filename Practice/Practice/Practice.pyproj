@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a2aa7aaf-866e-4a52-811a-1db633c896bf</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AccessingWeb.py</StartupFile>
+    <StartupFile>guessgame.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Functions.py" />
+    <Compile Include="guessgame.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
