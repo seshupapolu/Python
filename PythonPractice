@@ -1,0 +1,5 @@
+1.Write a Python program to calculate the length of a string.
+2.Write a program to add Hello at the start of the input string and display in Capital letters.
+3.Write a program to get the first 3 characters of a string.(Assmue string length is >3)
+4.Write a program to get the last 3 characters of a string..(Assmue string length is >3)
+5.Write a Python program to get a string made of the first 3 and the last 3 chars from a given a string.(Assmue string length is >6)
